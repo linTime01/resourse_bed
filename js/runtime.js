@@ -16,7 +16,7 @@ var e = new Date("08/09/2022 00:00:00"),
       终其一生，渐行渐远。✨ 
       `:`<img class='boardsign' src='https://img.shields.io/badge/Linの%E5%B0%8F%E5%B1%8B-%E4%B8%8B%E7%8F%AD%E4%BC%91%E6%81%AF%E5%95%A6%F0%9F%8C%99-6adea8?style=social&logo=coffeescript' 
       title='下班了也要好好加油~'><br> 本站已破壳 ${i} 天 ${s} 小时 ${g} 分 ${b} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 
-      旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> 我们充满遗憾✨ `,
+      旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> “最是人间留不住，朱颜辞镜花辞树。” --我们充满遗憾✨ `,
       document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = c) } setInterval((() => { createtime() }), 1e3);
 
 
